@@ -40,7 +40,7 @@ nav a{
 
     
     
-}
+
 h2{
     box-shadow: 10px 5px 15px  0px  rgba(255, 183, 0, 0.776);
 }
@@ -111,7 +111,7 @@ footer img{
     margin: 50px;
   text-align: center;
   position: relative;
-  left: 350px;
+  left: 850px;
 
    
 }
@@ -120,19 +120,26 @@ iframe{
     height: 50px;
     margin: 100px;
     transition:1s ease-in-out ;
+    position: relative;
+    left: 600px;
 }
+
 iframe:hover{
     width: 400px;
     height: 200px;
    
 }
 footer p{
-    margin-left: 75px;
+    margin-left: 600px;
     color: yellow;
 }
 .ai{
-    margin-left:575px;
+    margin-left:850px;
     position: relative;
     bottom: 150px;
 }    
+
+
+
+
 
